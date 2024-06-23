@@ -12166,7 +12166,7 @@
         "repo": "quorafind/obsidian-node-auto-resize"
     },
     {
-            "id": "caret",
+        "id": "caret",
         "name": "Caret",
         "author": "Jake Colling",
         "description": "An AI workbench. Canvas, Chat and more LLM powered features.",
